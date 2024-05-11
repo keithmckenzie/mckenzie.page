@@ -4,3 +4,5 @@
  📫 E-mail Address: info@keithmckenzie.net <br>
  💻 Website: https://keithmckenzie.github.io
  🌐 This is the website of Keith N. McKenzie
+<br>
+* Do not use this for impersonation.
