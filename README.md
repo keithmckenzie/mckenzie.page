@@ -3,4 +3,4 @@
  🌱 I’m currently learning Python and C++ <br>
  📫 E-mail Address: admin@keith.blue <br>
  💻 Website: https://keith.blue <br>
- 🌐 This is the website of Keith N. McKenzie
+ 🌐 Info: This is my web page.
